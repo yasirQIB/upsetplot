@@ -1,5 +1,5 @@
 {
-	"file": "./upsetplot.csv",
+	"file": "https://raw.githubusercontent.com/yasirQIB/upsetplot/master/upset.json",
 	"name": "Test",
 	"header": 0,
 	"separator": "\t",
