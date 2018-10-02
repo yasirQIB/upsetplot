@@ -1,0 +1,302 @@
+Gene Name	sub_MIC	MIC	High
+fimI	1	1	1
+tatC	1	1	1
+metL	1	1	0
+gcvP	1	1	0
+purL	1	1	0
+fimD	1	0	1
+waaY	1	1	0
+ybcV	1	1	0
+wbbK	1	1	0
+waaL	1	1	0
+gadE	1	1	0
+wzxB	1	1	0
+fimE	1	1	1
+ypjC	1	1	0
+yhiL	1	1	0
+purH	1	0	0
+marR	0	1	0
+marC	0	1	0
+frdD	0	1	0
+creA	0	1	0
+ompF	0	1	0
+galU	0	1	0
+yabP	0	1	0
+rbsB	0	1	0
+rbsC	0	1	0
+rbsH	0	1	0
+soxR	0	1	1
+carB	0	1	0
+purD	0	1	0
+yjcF	0	1	0
+yjbI	0	1	0
+ycjD	0	0	1
+acrR	0	0	1
+acrB	0	0	1
+yhbJ	0	0	1
+ptsN	0	0	1
+trkA	0	0	1
+fadR	0	0	1
+fadL	0	0	1
+fadD	0	0	1
+pcnB	0	0	1
+aroK	0	0	1
+aroB	0	0	1
+aroE	0	0	1
+aroD	0	0	1
+aroC	0	0	1
+nusA	0	0	1
+mprA	0	0	1
+opgH	0	0	1
+lon	0	0	1
+sapD	0	0	1
+sapC	0	0	1
+sapF	0	0	1
+ubiH	0	0	1
+ubiF	0	0	1
+ubiE	0	0	1
+ubiB	0	0	1
+cyaA	0	0	1
+ubiF	0	0	1
+opgG	0	0	1
+fre	0	0	1
+greA	0	0	1
+ubiE	0	0	1
+trkH	0	0	1
+rsmB	0	0	1
+fadD	0	0	1
+rep	0	0	1
+fabA	0	0	1
+wzzE	0	0	1
+acrA	0	0	1
+paoB	0	0	1
+lpxD	0	0	1
+skp	0	0	1
+epmA	0	0	1
+sspA	0	0	1
+fimB	0	0	1
+ubiI	0	0	1
+nuoG	0	0	1
+nuoF	0	0	1
+nuoE	0	0	1
+nuoC	0	0	1
+nuoB	0	0	1
+nuoA	0	0	1
+rimP	0	0	1
+sapF	0	0	1
+fimC	0	0	1
+glpR	0	0	1
+ubiD	0	0	1
+ybeX	0	0	1
+treC	0	0	1
+mlaD	0	0	1
+mlaE	0	0	1
+mlaF	0	0	1
+mlaB	0	0	1
+mlaC	0	0	1
+truD	0	0	1
+prc	0	0	1
+ldcA	0	0	1
+mrcA	0	0	1
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
